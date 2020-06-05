@@ -1,11 +1,10 @@
 @import url('./fonts/style.css');
 body{
-    font-family: 'Balsamiq Sans';
+    font-family: 'CHICKEN Pie';
     font-weight: bold;
 }
 .flexbox-container {
-    display: -ms-flexbox;
-    display: -webkit-flex;
+    
     display: flex;
     -ms-flex-align: center;
     -webkit-align-items: center;

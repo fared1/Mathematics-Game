@@ -3,7 +3,7 @@
 class Crud
 {
 	private $db;
-	function __construct()
+	function _construct()
 	{
         $this->db= new mysqli('DB-HOST','DB-USER','DB-PASSWORD','DB-NAME');  
 	}

@@ -36,7 +36,7 @@ CREATE TABLE `scores` (
 
 LOCK TABLES `scores` WRITE;
 /*!40000 ALTER TABLE `scores` DISABLE KEYS */;
-INSERT INTO `scores` VALUES (1,'Raqael Fisabillah',-14),(2,'Raqael Fisabillah',-14),(3,'Raqael Fisabillah',-14),(4,'Raqael Fisabillah',-14),(5,'Raqael Fisabillah',-14),(6,'Raqael Fisabillah',-14),(7,'Raqael Fisabillah',-14),(8,'Raqael Fisabillah',-14),(9,'Raqael Fisabillah',-14),(10,'Raqael Fisabillah',-14),(11,'Raqael Fisabillah',-14),(12,'Raqael Fisabillah',-14),(13,'Raqael Fisabillah',-14),(14,'Raqael Fisabillah',-14),(15,'Raqael Fisabillah',-12),(16,'Raqael Fisabillah',-12),(17,'Raqael Fisabillah',30);
+INSERT INTO `scores` VALUES (1,'Muhammad Farid H',-14);
 /*!40000 ALTER TABLE `scores` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
